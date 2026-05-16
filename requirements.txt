@@ -1,0 +1,6 @@
+boto3>=1.28.0
+SQLAlchemy>=2.0.0
+psycopg2-binary>=2.9.0
+pyodbc>=4.0.0
+azure-identity>=1.14.0
+azure-mgmt-sql>=2.0.0

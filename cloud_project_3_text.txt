@@ -1,0 +1,121 @@
+--- PAGE 1 ---
+Industrial Training Kit
+Batch:  2026 | Powered by DecodeLabs
+CLOUD COMPUTING
+(AWS/Azure)Project 3
+
+--- PAGE 2 ---
+WELCOME TO THE TEAM! 🚀
+Step in to the r ole of a Cloud In frastructur e Engineer
+at DecodeLabs . Project 3 is y our persist ence phase:
+The Da ta W arehouse . This tr ack isn 't about
+"tempor ary spr eadsheets"—it 's about Scalable Da ta
+Manag emen t. Bef ore you ar chit ect global multi-
+region clust ers, you must mast er the art of
+provisioning manag ed da tabase services tha t can
+handle thousands of r ecor ds with high a vailability .
+By completing this milest one, you ar e pr oving y ou
+can bridg e the g ap betw een r aw comput e po wer and
+permanen t, structur ed st orage thr ough pur e cloud
+archit ectur al lo gic. Let ’s design a digital v ault tha t
+secur es and or ganiz es in forma tion with absolut e
+precision.
+
+--- PAGE 3 ---
+Qualification Criteria
+GUIDELINES:
+EARN YOUR BADGE 🛡
+Requirement: Complete project 3 to unlock
+other projects for next week.
+Standard: All projects must be verified for
+quality.
+       Mandatory: Project 3 is the definitive milestone
+for mastering your domain.
+
+--- PAGE 4 ---
+SCENARIO:
+An e-commerce company is struggling with
+Excel sheets to manage customer data.
+As their user base grows, they need a robust,
+scalable, and secure Cloud
+Database to store user records reliably.
+YOUR MISSION:
+Set up a managed cloud database system.
+Provision a Relational Database Service
+(RDS) or NoSQL Database  (DynamoDB).
+Create a table named Interns with columns: Name, Role, Email.
+Manually insert dummy records to test data persistence.
+Bonus:  Connect to this database using a local SQL client or Python script.
+Tools:  AWS RDS / DynamoDB / SQL Workbench.
+Project 3:
+ THE DATA WAREHOUSE  
+
+--- PAGE 5 ---
+DecodeLabs
+
+--- PAGE 6 ---
+DecodeLabs
+
+--- PAGE 7 ---
+DecodeLabs
+
+--- PAGE 8 ---
+DecodeLabs
+
+--- PAGE 9 ---
+DecodeLabs
+
+--- PAGE 10 ---
+DecodeLabs
+
+--- PAGE 11 ---
+DecodeLabs
+
+--- PAGE 12 ---
+DecodeLabs
+
+--- PAGE 13 ---
+DecodeLabs
+
+--- PAGE 14 ---
+DecodeLabs
+
+--- PAGE 15 ---
+DecodeLabs
+
+--- PAGE 16 ---
+DecodeLabs
+
+--- PAGE 17 ---
+DecodeLabs
+
+--- PAGE 18 ---
+DecodeLabs
+
+--- PAGE 19 ---
+DecodeLabs
+
+--- PAGE 20 ---
+CONCLUSION
+CONCLUSION
+The absolute best way to master Cloud Computing is
+through hands-on practice, not just theory. Don't just aim
+to complete these projects; take them one by one,
+experiment with unique solutions—like comparing the
+setup of a Relational (RDS) versus a NoSQL (DynamoDB)
+database—and treat every "Connection Refused" or
+security group error as a learning opportunity. As you
+build these milestones at DecodeLabs, you are creating a
+real-world portfolio that showcases your Database-as-a-
+Service (DBaaS) expertise to future employers. Your
+journey to becoming a professional cloud architect
+begins right here, right now, with the very first table you
+provision today.
+
+--- PAGE 21 ---
+THANK YOU 
+📞  +91 89330 06408
+✉ decodelabs.tech@gmail.com
+🌎 www.decodelabs.tech
+📍 GREATER LUCKNOW, INDIA 
+
